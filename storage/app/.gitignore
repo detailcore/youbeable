@@ -1,0 +1,5 @@
+*
+!public/
+!translation_ready/
+!translated/
+!.gitignore
